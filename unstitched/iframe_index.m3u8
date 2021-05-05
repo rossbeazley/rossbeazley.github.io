@@ -1,0 +1,1344 @@
+#EXTM3U
+#EXT-X-VERSION:4
+## Created with Unified Streaming Platform (version=1.10.31-23289)
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-TARGETDURATION:10
+#USP-X-I-FRAME-STREAM-INF:BANDWIDTH=160000,AVERAGE-BANDWIDTH=55000,CODECS="avc1.4D4020",RESOLUTION=512x288
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_0.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@9964
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_0.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5640@87232
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_0.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8460@212440
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_0.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10716@330504
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_0.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12220@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_1.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10716@112236
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_1.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@203228
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_1.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@293468
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_1.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10904@392732
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_1.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8648@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_2.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@77456
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_2.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13724@171644
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_2.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10340@254176
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_2.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11092@346484
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_2.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9024@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_3.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7332@93248
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_3.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6016@201160
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_3.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5452@296100
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_3.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6204@391040
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_3.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_4.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4888@97008
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_4.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3572@205860
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_4.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4136@306816
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_4.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5828@409652
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_4.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_5.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@103964
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_5.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6016@217140
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_5.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:2632@314336
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_5.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3008@405328
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_5.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7332@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_6.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5452@68620
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_6.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7708@174840
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_6.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3948@278992
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_6.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6580@318660
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_6.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9024@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_7.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@71440
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_7.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12408@158484
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_7.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@258500
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_7.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10716@350244
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_7.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13536@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_8.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10716@103964
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_8.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15040@190444
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_8.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11280@300236
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_8.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4136@397808
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_8.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16356@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_9.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16732@114680
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_9.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15792@218644
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_9.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15604@316780
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_9.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@416796
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_9.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14476@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_10.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@70876
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_10.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14664@148520
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_10.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@304936
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_10.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14664@392544
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_10.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_11.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@103212
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_11.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@206800
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_11.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12784@307004
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_11.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12220@407772
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_11.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_12.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8084@108100
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_12.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6580@202852
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_12.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@276924
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_12.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17296@370736
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_12.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24628@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_13.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15040@114116
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_13.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10716@201724
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_13.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:19552@296100
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_13.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:21808@393108
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_13.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14100@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_14.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16732@88924
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_14.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15228@188940
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_14.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14476@280308
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_14.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7520@371676
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_14.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_15.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17484@111296
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_15.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22372@188376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_15.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:33276@335392
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_15.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22936@443116
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_15.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22560@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_16.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:26320@91932
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_16.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11844@181044
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_16.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12408@261884
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_16.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@345544
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_16.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14476@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_17.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:19176@95128
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_17.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:18988@206424
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_17.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15228@291400
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_17.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12032@397432
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_17.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13724@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_18.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@83660
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_18.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11468@186872
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_18.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17672@273916
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_18.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15604@358704
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_18.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:18988@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_19.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:29704@98700
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_19.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:27260@192700
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_19.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13536@290460
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_19.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:18612@409840
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_19.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16920@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_20.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17108@99076
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_20.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:28012@200596
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_20.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:29140@306816
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_20.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:29516@404012
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_20.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:18612@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_21.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8084@95692
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_21.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11468@176908
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_21.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10716@263764
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_21.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15040@335768
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_21.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_22.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11092@104904
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_22.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13724@190068
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_22.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24252@281060
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_22.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24440@372240
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_22.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16732@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_23.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16732@107348
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_23.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@195332
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_23.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:20304@286512
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_23.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13160@390100
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_23.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10340@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_24.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11468@116560
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_24.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13160@198152
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_24.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15980@279368
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_24.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22560@376000
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_24.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5828@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_25.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5640@132916
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_25.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6016@233120
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_25.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5076@330316
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_25.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@410780
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_25.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_26.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@63544
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_26.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8460@148144
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_26.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16356@263388
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_26.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11844@346672
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_26.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12408@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_27.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15228@90428
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_27.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@195520
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_27.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15416@287264
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_27.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23688@365096
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_27.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12032@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_28.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23312@97008
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_28.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@212440
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_28.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8272@316968
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_28.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9964@416044
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_28.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_29.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8460@109792
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_29.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8460@199092
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_29.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@293656
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_29.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12220@377880
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_29.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11656@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_30.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9588@103024
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_30.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5264@174464
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_30.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@277864
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_30.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@380512
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_30.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3948@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_31.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6956@86480
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_31.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3760@170516
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_31.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8460@303056
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_31.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8084@406456
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_31.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4512@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_32.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9024@103964
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_32.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4700@216764
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_32.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5828@319412
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_32.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@391040
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_32.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8460@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_33.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@106972
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_33.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5640@221276
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_33.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@307380
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_33.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8272@403636
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_33.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17296@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_34.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17108@86104
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_34.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11656@153596
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_34.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@233308
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_34.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15228@320728
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_34.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6016@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_35.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6016@114492
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_35.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9964@210936
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_35.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8648@307004
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_35.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6580@398184
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_35.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9024@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_36.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@98324
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_36.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@190068
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_36.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:2820@283316
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_36.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6204@347424
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_36.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_37.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@76328
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_37.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@188376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_37.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12408@271284
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_37.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7332@377692
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_37.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14852@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_38.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14664@105656
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_38.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@207928
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_38.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6204@315088
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_38.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7708@379760
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_38.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5828@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_39.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@70312
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_39.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6204@175216
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_39.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7896@254176
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_39.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@360208
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_39.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8084@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_40.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8648@101708
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_40.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8272@194768
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_40.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5828@318284
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_40.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3384@384084
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_40.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6580@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_41.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@95880
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_41.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@197024
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_41.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4324@287264
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_41.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7896@388408
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_41.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7896@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_42.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7332@88548
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_42.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13348@189504
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_42.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@283128
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_42.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@369232
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_42.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_43.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@109040
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_43.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5264@211876
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_43.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@295348
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_43.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9964@357576
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_43.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11468@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_44.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16544@85916
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_44.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:20680@198904
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_44.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16356@284068
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_44.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13160@402696
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_44.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14664@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_45.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13536@127652
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_45.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@210936
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_45.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12220@278428
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_45.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@426948
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_45.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_46.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17860@73696
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_46.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@154348
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_46.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9588@253236
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_46.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11656@348364
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_46.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10716@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_47.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:19928@106972
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_47.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12784@189128
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_47.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@294972
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_47.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@392920
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_47.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11092@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_48.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8648@102836
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_48.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:34780@223908
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_48.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:34968@301740
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_48.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:19928@405328
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_48.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16732@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_49.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@77644
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_49.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11092@141376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_49.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@239888
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_49.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:19176@341972
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_49.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14852@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_50.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16732@96256
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_50.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7708@197776
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_50.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14476@309072
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_50.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17296@380136
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_50.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12596@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_51.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:16356@93248
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_51.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17860@196460
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_51.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@312832
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_51.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14664@376564
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_51.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:14476@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_52.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11092@106972
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_52.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@191384
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_52.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@308132
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_52.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11844@394236
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_52.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6204@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_53.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8272@100768
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_53.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9964@189880
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_53.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11468@287828
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_53.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@370736
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_53.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_54.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5828@90616
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_54.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4700@227480
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_54.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9776@318472
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_54.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10340@400064
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_54.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10340@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_55.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5264@97384
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_55.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8648@197964
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_55.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@295348
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_55.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8272@376188
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_55.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5076@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_56.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8648@76140
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_56.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@180668
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_56.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3196@289332
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_56.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5076@383708
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_56.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:2632@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_57.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6956@91744
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_57.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11468@173900
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_57.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@257936
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_57.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4888@368292
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_57.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4700@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_58.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5452@93060
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_58.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10528@174464
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_58.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3572@248536
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_58.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3008@339152
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_58.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:4136@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_59.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@89676
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_59.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9212@180104
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_59.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9588@284444
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_59.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11280@376000
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_59.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7708@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_60.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7332@119568
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_60.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6768@213004
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_60.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5264@292716
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_60.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9024@390476
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_60.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15604@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_61.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6580@128216
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_61.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@204356
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_61.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12220@299860
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_61.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:19552@409840
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_61.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6956@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_62.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13536@88924
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_62.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15980@166192
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_62.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:17108@264516
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_62.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7896@368104
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_62.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13348@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_63.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9964@102648
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_63.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7896@217516
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_63.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8272@312644
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_63.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8648@419428
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_63.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8460@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_64.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@62604
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_64.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10340@176156
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_64.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6204@266208
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_64.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:18236@365660
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_64.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25756@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_65.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25756@104716
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_65.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:30456@191760
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_65.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9400@289332
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_65.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9024@377692
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_65.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25944@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_66.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:9588@100768
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_66.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11280@192512
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_66.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13536@254364
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_66.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@380324
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_66.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_67.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@83660
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_67.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:3572@209056
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_67.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7332@310012
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_67.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@391228
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_67.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11656@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_68.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:31584@168824
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_68.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:47940@273352
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_68.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:29704@385400
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_68.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:33276@478084
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_68.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:33276@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_69.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:33276@92120
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_69.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:31208@194016
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_69.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:31020@279556
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_69.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:31020@378444
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_69.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:31020@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_70.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12972@96820
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_70.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13912@159800
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_70.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:20304@242708
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_70.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25756@339340
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_70.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:28200@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_71.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:15416@121072
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_71.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13536@205296
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_71.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11656@292716
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_71.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22560@385024
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_71.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24440@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_72.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:28200@96256
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_72.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:35532@193264
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_72.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:35532@288016
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_72.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:41360@378444
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_72.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:30080@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_73.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23876@118064
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_73.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:32900@203792
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_73.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:30268@294784
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_73.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:38164@389536
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_73.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:37976@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_74.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:40796@92684
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_74.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:40608@193076
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_74.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@253048
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_74.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5452@288204
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_74.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5452@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_75.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7708@112800
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_75.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5452@224096
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_75.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10528@356260
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_75.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6204@466052
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_75.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_76.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@109228
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_76.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6956@214320
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_76.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:5452@297040
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_76.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@390664
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_76.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_77.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@109792
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_77.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:7144@200408
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_77.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11092@293468
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_77.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:6392@382768
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_77.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:11280@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_78.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:10152@101520
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_78.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:8836@198716
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_78.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:19364@300612
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_78.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:26132@386152
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_78.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24628@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_79.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:26132@90992
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_79.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24252@188000
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_79.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23500@289708
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_79.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22372@385776
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_79.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:21808@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_80.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25004@90616
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_80.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25004@179164
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_80.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23124@287452
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_80.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23312@374496
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_80.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25380@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_81.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22184@96256
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_81.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24252@192324
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_81.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23876@293468
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_81.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25004@380700
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_81.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23688@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_82.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:26696@90428
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_82.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:20680@187812
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_82.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22184@278052
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_82.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25568@355320
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_82.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25568@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_83.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25944@91744
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_83.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23312@193640
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_83.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23124@298544
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_83.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24628@380888
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_83.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:25192@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_84.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23876@103588
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_84.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:21808@193264
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_84.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24064@291400
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_84.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24816@389912
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_84.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24816@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_85.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22184@109980
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_85.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:20492@202288
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_85.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22936@299296
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_85.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:21996@391040
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_85.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22372@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_86.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23688@94000
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_86.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24064@190256
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_86.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23688@290836
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_86.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:24440@377504
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_86.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:23124@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_87.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:22936@87232
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_87.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:21808@189316
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_87.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:18988@286700
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_87.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:20868@379196
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_87.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:20680@376
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_88.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:18048@86104
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_88.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:13348@193264
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_88.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:12596@286324
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_88.ts
+#EXTINF:2, no desc
+#EXT-X-BYTERANGE:376@364344
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_88.ts
+#EXT-X-ENDLIST
