@@ -1,0 +1,265 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Created with Unified Streaming Platform (version=1.10.31-23289)
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:10
+#USP-X-MEDIA:BANDWIDTH=66000,AVERAGE-BANDWIDTH=66000,TYPE=AUDIO,GROUP-ID="audio-aach-64",LANGUAGE="en",NAME="English",AUTOSELECT=YES,CHANNELS="2",CODECS="mp4a.40.5"
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_0.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_1.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_2.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_3.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_4.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_5.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_6.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_7.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_8.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_9.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_10.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_11.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_12.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_13.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_14.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_15.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_16.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_17.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_18.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_19.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_20.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_21.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_22.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_23.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_24.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_25.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_26.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_27.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_28.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_29.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_30.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_31.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_32.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_33.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_34.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_35.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_36.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_37.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_38.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_39.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_40.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_41.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_42.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_43.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_44.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_45.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_46.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_47.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_48.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_49.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_50.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_51.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_52.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_53.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_54.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_55.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_56.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_57.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_58.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_59.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_60.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_61.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_62.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_63.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_64.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_65.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_66.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_67.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_68.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_69.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_70.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_71.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_72.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_73.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_74.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_75.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_76.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_77.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_78.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXTINF:10.0266, no desc
+audio_1_2.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:10.0266, no desc
+audio_1_0.aac
+#EXTINF:9.984, no desc
+audio_1_1.aac
+#EXT-X-DISCONTINUITY
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_79.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_80.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_81.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_82.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_83.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_84.aac
+#EXTINF:10.0266, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_85.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_86.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_87.aac
+#EXTINF:9.984, no desc
+https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_88.aac
+#EXT-X-ENDLIST
