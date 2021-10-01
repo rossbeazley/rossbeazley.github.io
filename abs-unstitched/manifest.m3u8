@@ -10,4 +10,4 @@
 https://rossbeazley.github.io/abs-unstitched/video.m3u8
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=160000,AVERAGE-BANDWIDTH=55000,CODECS="avc1.4D4020",RESOLUTION=512x288,URI="iframe_index.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=160000,AVERAGE-BANDWIDTH=55000,CODECS="avc1.4D4020",RESOLUTION=512x288,URI="https://rossbeazley.github.io/abs-unstitched/iframe_index.m3u8"
