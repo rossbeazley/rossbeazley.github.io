@@ -7,23 +7,23 @@
 #EXT-X-TARGETDURATION:10
 #USP-X-MEDIA:BANDWIDTH=456000,AVERAGE-BANDWIDTH=381000,TYPE=VIDEO,GROUP-ID="video-avc1-349",NAME="video",AUTOSELECT=YES,CODECS="avc1.4D4020",RESOLUTION=512x288,FRAME-RATE=25
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_0.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_0.ts
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_1.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_1.ts
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_2.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_2.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_0.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_0.ts
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_1.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_1.ts
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_2.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_2.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_0.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_0.ts
 #EXTINF:10, no desc
-LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_1.ts
+https://rossbeazley.github.io/stitched-abs/LipsyncTestPattern_Sync-One2_AVCi100.1080i25_Stereo-5.1-20181202_350_v_1.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:10, no desc
 https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/Sintel.2010.1080p-mezz-350/Sintel.2010.1080p-mezz-350_v_0.ts

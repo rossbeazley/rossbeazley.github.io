@@ -6,23 +6,23 @@
 #EXT-X-TARGETDURATION:10
 #USP-X-MEDIA:BANDWIDTH=66000,AVERAGE-BANDWIDTH=66000,TYPE=AUDIO,GROUP-ID="audio-aach-64",LANGUAGE="en",NAME="English",AUTOSELECT=YES,CHANNELS="2",CODECS="mp4a.40.5"
 #EXTINF:10.0266, no desc
-audio_1_0.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_0.aac
 #EXTINF:9.984, no desc
-audio_1_1.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_1.aac
 #EXTINF:10.0266, no desc
-audio_1_2.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_2.aac
 #EXT-X-DISCONTINUITY
 #EXTINF:10.0266, no desc
-audio_1_0.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_0.aac
 #EXTINF:9.984, no desc
-audio_1_1.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_1.aac
 #EXTINF:10.0266, no desc
-audio_1_2.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_2.aac
 #EXT-X-DISCONTINUITY
 #EXTINF:10.0266, no desc
-audio_1_0.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_0.aac
 #EXTINF:9.984, no desc
-audio_1_1.aac
+https://rossbeazley.github.io/stitched-abs/audio_1_1.aac
 #EXT-X-DISCONTINUITY
 #EXTINF:10.0266, no desc
 https://lg-gb-emustg-ll.s.llnwi.net/skyplayer/VCD/iandt/v1.10.31/hls/regression/hlssdstereo/audio_1/audio_1_0.aac
