@@ -6,8 +6,9 @@
     <button id="togglePlay">Play</button>
     <script src="https://sdk.scdn.co/spotify-player.js"></script>
     <script>
+        const token = window.frameElement.getAttribute('token');
+            
         window.onSpotifyWebPlaybackSDKReady = () => {
-            const token = window.frameElement.getAttribute('token');
             const player = new Spotify.Player({
                 name: 'Embedded Spotify',
                 getOAuthToken: cb => { cb(token); },
