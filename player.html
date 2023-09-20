@@ -1,20 +1,60 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+.play {
+ animation: pulse 1s linear infinite;
+}
+
+@-webkit-keyframes "pulse" {
+0% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+50% {
+   -webkit-transform: scale(0.8);
+   transform: scale(0.8);
+}
+100% {
+    -webkit-transform: scale(1);
+   transform: scale(1);
+}
+}
+</style>
 </head>
 <body>
-    <img id="togglePlay" src="icon-48.png"/>
+<p>boop</p>
+    <img id="togglePlay" src="images/icon-48.png"/>
     <script src="https://sdk.scdn.co/spotify-player.js"></script>
     <script>
         const urlParams = new URL(window.location.toLocaleString()).searchParams;
         const token = urlParams.get('token');
         const name = urlParams.get('name');
-        
+        const img = document.querySelector('#togglePlay');
+
         window.onSpotifyWebPlaybackSDKReady = () => {
             const player = new Spotify.Player({
                 name: 'embed-'+name,
                 getOAuthToken: cb => { cb(token); },
                 volume: 0.5
+            });
+
+            player.addListener('player_state_changed', ({
+              position,
+              duration,
+              track_window: { current_track }
+            }) => {
+                 player.getCurrentState().then(state => {
+                  if (!state) {
+                    return;
+                  }
+                  if(state.paused) {
+                      img.className=""
+                    } else {
+                  img.className='play'
+                }
+            
+                }); 
             });
 
             // Ready
