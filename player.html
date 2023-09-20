@@ -8,10 +8,11 @@
     <script>
         const urlParams = new URL(window.location.toLocaleString()).searchParams;
         const token = urlParams.get('token');
-            
+        const name = urlParams.get('name');
+        
         window.onSpotifyWebPlaybackSDKReady = () => {
             const player = new Spotify.Player({
-                name: 'Embedded Spotify',
+                name: 'embed-'+name,
                 getOAuthToken: cb => { cb(token); },
                 volume: 0.5
             });
