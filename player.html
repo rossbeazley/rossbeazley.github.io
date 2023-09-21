@@ -32,6 +32,8 @@
         const img = document.querySelector('#togglePlay');
 
         window.onSpotifyWebPlaybackSDKReady = () => {
+            console.log(token);
+            console.log('embed-'+name);
             const player = new Spotify.Player({
                 name: 'embed-'+name,
                 getOAuthToken: cb => { cb(token); },
